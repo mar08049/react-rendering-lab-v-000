@@ -2,12 +2,5 @@
   "presets": [
     "env",
     "react",
-    "stage-1"
-  ],
-  "plugins": [
-    "transform-class-properties",
-    "transform-decorators",
-    "transform-react-constant-elements",
-    "transform-react-inline-elements"
-  ]
+    "stage-1"]
 }
